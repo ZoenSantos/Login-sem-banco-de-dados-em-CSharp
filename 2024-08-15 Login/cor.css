@@ -1,0 +1,24 @@
+﻿body {
+
+}
+
+#Login1 {
+    margin-left: 596px; /*Centralizar horizontamente*/
+    
+}
+
+#lblteste {
+    font-family: Arial, sans-serif; /* Definindo a fonte */
+    font-size: 16px; /* Tamanho da fonte */
+    font-weight: bold; /* Tornando a fonte em negrito */
+    color: #333; /* Cor do texto */
+
+    display: block; /* Tornando a label um bloco para fácil alinhamento */
+    margin-bottom: 8px; /* Espaçamento abaixo da label */
+}
+
+#lblInicio {
+
+    margin-left: 607px;
+}
+

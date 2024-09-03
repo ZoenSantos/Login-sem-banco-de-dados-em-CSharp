@@ -1,0 +1,118 @@
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\2024-08-15 Login.dll.config
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\2024-08-15 Login.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\2024-08-15 Login.pdb
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csc.exe
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csc.exe.config
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csc.rsp
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csi.exe
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csi.exe.config
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csi.rsp
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Console.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Net.Http.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\vbc.exe
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\vbc.rsp
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.csproj.CopyComplete
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.dll
+C:\Users\aluno\Documents\PROGRAMAS\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.pdb
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\2024-08-15 Login.dll.config
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\2024-08-15 Login.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\2024-08-15 Login.pdb
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csc.exe
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csc.exe.config
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csc.rsp
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csi.exe
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csi.exe.config
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\csi.rsp
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.AppContext.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Collections.Immutable.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Console.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Globalization.Calendars.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.Compression.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.FileSystem.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Net.Http.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Net.Sockets.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Reflection.Metadata.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.ValueTuple.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.XPath.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\vbc.exe
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\vbc.exe.config
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\vbc.rsp
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\VBCSCompiler.exe
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\roslyn\VBCSCompiler.exe.config
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.csproj.AssemblyReference.cache
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.csproj.CoreCompileInputs.cache
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.csproj.CopyComplete
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.dll
+E:\Segundo Semestre 2024\2024-08-15 Login\2024-08-15 Login\obj\Debug\2024-08-15 Login.pdb
